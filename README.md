@@ -11,7 +11,7 @@ Réalisation d'un site web en 8h : [Fil Rouge :"Guerrilla"](https://github.com/b
 31 Mai 2018.
 
 ### A quoi ça ressemble ?  
-![Réalisation finale](img/Loupiote Asbl.jpg)
+![Réalisation finale](img/Loupiote_Asbl.jpg)
 
 ### Qu’est-ce que ça contient ?  
 Création d'un one-pager en utilisant un template en s'insiprant du site de [Loupiote Asbl](http://www.loupiote.be/).
